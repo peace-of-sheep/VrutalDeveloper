@@ -1,4 +1,4 @@
-[![will header](https://raw.githubusercontent.com/VrutalDeveloper/VrutalDeveloper/assets/header.png)](#)
+[![Header](https://raw.githubusercontent.com/VrutalDeveloper/VrutalDeveloper/assets/header.png)](#)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Will.
